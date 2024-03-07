@@ -4,15 +4,15 @@
 
 title: Alexander Quessy # the website title (if blank, full name will be used instead)
 first_name: Alexander
-middle_name: D. L.
+middle_name:
 last_name: Quessy
-email: aq15777@bristol.ac.uk
+email: alexander@quessy.com
 description:
 footer_text: 
 keywords:
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🛫  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ✈️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://AOS55.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -103,7 +103,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email: alexander@quessy.com, is the best way to contact me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -112,7 +112,8 @@ contact_note: >
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: r4aF2kbZNdBYdv1ILz5E7CJJpFC5NtsnH_RbG6vlIu4
+# your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
