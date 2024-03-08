@@ -16,4 +16,4 @@ I am a UK CAA certified commercial pilot and flying instructor, I can provide in
 - **Night Rating**
 - **Aerobatic Rating**, upto [AOPA sports/standard](https://www.aopa.co.uk/training-safety/aopa-aerobatic-certificate.html) level
 
-Please [email me](mailto:alexander@quessy.com?subject=Flight%20Training%3A%20%24(title)&body=tldr%3A%20%24(280-character-summary)%0A*%20%24(details-in-bullets)%0A*%20%24(more-details)%0A){:target="_blank"} if you are interested in flight training. I can also offer type specific familiarization and differences training for DA-42 and DA-62 MEP along with most other SEP class training aircraft.
+Please [email me](mailto:alexander@quessy.com?subject=Flight%20Training%3A%20%24(title)&body=tldr%3A%20%24(280-character-summary)%0A*%20%24(details-in-bullets)%0A*%20%24(more-details)%0A){:target="_blank"} if you are interested in flight training. I can also offer type specific familiarization and differences training for DA-42 and DA-62 MEP along with most other SEP class aircraft.
