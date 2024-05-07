@@ -9,7 +9,7 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>alexander@quessy.com</p>
+    <p>alexander@quessy.io</p>
 
 news: False # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
