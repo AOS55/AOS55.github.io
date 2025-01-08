@@ -21,4 +21,4 @@ I design algorithms to enable autonomous decision-making under uncertainty, part
 
 Specifically, my work has explored (1) how to develop autonomous agents that can safely navigate and land fixed-wing aircraft in emergency scenarios, (2) how to leverage unsupervised learning techniques to learn generalizable policies in environments with sparse rewards, and (3) how to automatically generate increasingly complex training environments through learned curricula. Currently, I'm especially interested in developing robust generalizable algorithms for real-world systems in safety-critical applications.
 
-**Bio:** I hold both a PhD and MEng in Aerospace Engineering from the University of Bristol. Beyond my academic work, I'm a UK CAA certified commercial pilot and flying instructor, specializing in multi-engine instrument and aerobatic instruction.
+**Bio:** I hold both a PhD and MEng in Aerospace Engineering from the University of Bristol. Beyond my academic work, I'm a UK CAA certified commercial pilot and flying instructor, specializing in multi-engine and aerobatic instruction.
